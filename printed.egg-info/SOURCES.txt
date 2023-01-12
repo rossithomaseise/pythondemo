@@ -1,0 +1,8 @@
+README.md
+setup.py
+printed.egg-info/PKG-INFO
+printed.egg-info/SOURCES.txt
+printed.egg-info/dependency_links.txt
+printed.egg-info/top_level.txt
+testWheel/__init__.py
+testWheel/fonctionprint.py
